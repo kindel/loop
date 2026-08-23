@@ -1,0 +1,14 @@
+{
+  "id": "loop",
+  "name": "Loop",
+  "subtitle": "Interview loop packet",
+  "href": "/loop/",
+  "status": "later",
+  "order": 15,
+  "icon": "icon.png",
+  "summary": "An interactive app that writes the interview loop: the role, four to six principles, one behavioral question each, the interviewer on each seat, and the Under / Just Right / Over rows. You leave with a packet, not a vibe. Useful when you are opening a req and the loop is still a calendar hold.",
+  "posts": [
+    { "title": "Interviews are better with Behavioral Questions", "href": "https://blog.kindel.com/2026/08/18/interviews-are-better-with-behavioral-questions/" },
+    { "title": "Hiring First. Everything Else Second.", "href": "https://blog.kindel.com/2026/08/12/hiring-first-everything-else-second/" }
+  ]
+}
