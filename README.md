@@ -1,17 +1,21 @@
 # loop
 
-A coming-soon interactive app that writes the interview loop so you leave with a packet, not a vibe.
+A coming-soon interactive app that helps hiring managers design the interview loop. 
 
 ## The Model
 
-A loop is a designed interview, not a calendar hold. Four parts:
+An interview loop is a structured plan for who interviews the candidate amd
+what each person is responsible for. 
 
-1. **Role**: The 12-month excellence hypothesis. What great looks like before you write the job.
-2. **Principles**: Four to six leadership principles the role actually needs. Not the whole set.
-3. **Questions**: One behavioral question per principle, from the question bank. Probe, do not perform.
-4. **Seats**: Named interviewers, each with a principle, a question, and the Under / Just Right / Over rows.
+1. **Role**: The 12-month excellence hypothesis. What great looks like before you write the job. Every interviewer should read this and know precisely the job the candidate will be doing if hired. 
+2. **The How**: How an ideal candidate would behave. Four to six leadership principles the role actually needs. Not the whole set.
+3. **The What**: What an ideal candidate knows; skills, knowledge, capabilities. 
+4. **Role Assignments**: The Candidate, Hiring Manager (also an Interviewer), Interviewers, Shadow Interviewers, Bar Raiser (Also an interviewer), Recruiting Partner. Each Interviewer gets assigned one to three principles to test and what aspect of the what to test.
+5. **Feedback**: Written by each interviewer afterward the interview. Must make a hire/no-hire call explaining why. Submitted blind. 
+5. **Debrief**: Loop reads all feedback and debates. Minds aee changed (or not). Bar
+Raiser makes final hire/no-hire call.
 
-Hiring managers design the loop. Interviewers run one seat. Recruiting does not own this.
+Hiring managers design the loop. Interviewers interview and write clear feedback blind. Bar Raiser runs rhe debrief. 
 
 ## Why it works
 
